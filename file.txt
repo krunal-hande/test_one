@@ -1,2 +1,3 @@
 oreder from master machine
-file recived from github 
+file recived from github
+test for execution from push script  
