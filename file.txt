@@ -1,3 +1,4 @@
 oreder from master machine
 file recived from github
 test for execution from push script  
+in this project server helath monitoring scripts has been provided in bash 
